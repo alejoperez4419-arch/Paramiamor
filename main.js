@@ -146,7 +146,7 @@ function go2() {
         audio2.play();
 
         type();
-    }, 3500);
+    }, 6000);
 }
 
 
